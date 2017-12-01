@@ -13,7 +13,6 @@ public class Main {
 		manager.register("strong message", upen);
 		manager.register("warning box", mbox);
 		manager.register("slash box", sbox);
-
 		// 生成
 		Product p1 = manager.create("strong message");
 		p1.use("Hello, world.");

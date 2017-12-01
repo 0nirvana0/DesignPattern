@@ -6,6 +6,7 @@
 	<classpathentry kind="src" path="D04_FactoryMethod"/>
 	<classpathentry kind="src" path="D05_Singleton"/>
 	<classpathentry kind="src" path="D06_Prototype"/>
+	<classpathentry kind="src" path="D07_Builder"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
